@@ -1,5 +1,5 @@
 # IOT-Automatic-Street-Light
-# Overview
+<u><b>Overview</b></u>
 
 This project implements an IoT-based Automatic Street Light System designed to reduce energy consumption and improve roadway visibility using real-time sensor data. It was developed by students from Methodist College of Engineering and Technology, Department of Computer Science and Engineering with Artificial Intelligence and Machine Learning.
 
