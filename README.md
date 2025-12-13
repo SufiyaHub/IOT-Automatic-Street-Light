@@ -30,10 +30,8 @@ The system is programmed using Arduino C/C++. The microcontroller reads LDR valu
 
 This project showcases how IoT and automation improve public infrastructure by reducing power wastage, improving safety, and enabling scalable intelligent lighting.
 
-# Project Image
+# Working Model
 
 ![WhatsApp Image 2025-12-13 at 5 49 53 PM](https://github.com/user-attachments/assets/6afc6846-6207-45e6-86ac-dcf7210b98bc)
 
-# Working
 
-https://screenapp.io/app/v/h9cd87oFbN
